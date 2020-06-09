@@ -14,4 +14,4 @@ const setState = value => {
 }
 
 let displayBox = document.getElementsByClassName('.display');
-value = displayBox.value
+displayBox.innerHTML = "Hello"

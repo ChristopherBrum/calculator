@@ -46,6 +46,11 @@ h1 {
   align-items: center;
 }
 
+.calc-btn:hover {
+  background: orangered;
+  opacity: .2;
+}
+
 .display {
   grid-area: display;
 }
